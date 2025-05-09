@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1f4"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Impian Jaya Ancol",
+  "jumlah": 1674345,
+  "foto": "https://www.jabarnews.com/wp-content/uploads/2023/02/taman_impian_jaya_ancol_840x576-696x522.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1f5"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Mini Indonesia Indah",
+  "jumlah": 432146,
+  "foto": "https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/259945_Viator_Thinkstock_164259.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1f6"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Margasatwa Ragunan",
+  "jumlah": 501231,
+  "foto": "https://statics.indozone.news/content/2021/03/12/d5sB8ZV/taman-margasatwa-ragunan-bisa-dikunjungi-besok-lansia-dilarang-masuk42_700.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1f7"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Monumen Nasional",
+  "jumlah": 164652,
+  "foto": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/288/2023/01/20025342/national-monument.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1f8"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Nasional",
+  "jumlah": 21743,
+  "foto": "https://www.gpsmycity.com/img/gd_attr/31250.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1f9"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Satria Mandala",
+  "jumlah": 1976,
+  "foto": "https://storage.googleapis.com/seo-cms/assets/Museum_Satria_Mandala_2_c985a7bb10/Museum_Satria_Mandala_2_c985a7bb10.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1fa"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Sejarah Jakarta",
+  "jumlah": 80823,
+  "foto": "https://salsawisata.com/wp-content/uploads/2022/07/Museum-Sejarah-Jakarta.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1fb"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Tekstil",
+  "jumlah": 3547,
+  "foto": "https://travel.biz.id/wp-content/uploads/2021/04/Museum-Tekstil-Jakarta.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1fc"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Bahari",
+  "jumlah": 2217,
+  "foto": "https://cove-blog-id.sgp1.cdn.digitaloceanspaces.com/cove-blog-id/2023/08/museum-bahari.webp"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1fd"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Seni Rupa dan Keramik",
+  "jumlah": 21432,
+  "foto": "https://asset.kompas.com/crops/Xcjr7J_EhqN9bonQVGiigcyEgLk=/0x0:640x427/750x500/data/photo/2019/09/09/5d764c6a5443d.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1fe"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Wayang",
+  "jumlah": 39585,
+  "foto": "https://www.hargatiket.net/wp-content/uploads/2020/01/museum.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a1ff"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Joang 45 dan Thamrin",
+  "jumlah": 1263,
+  "foto": "https://cdn-2.tstatic.net/jakarta/foto/bank/images/museum-joang-45-di-jalan-menteng.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a200"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Arkeologi Onrust",
+  "jumlah": 1776,
+  "foto": "https://static.republika.co.id/uploads/images/inpicture_slide/037659400-1586855009-830-556.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a201"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Pelabuhan Sunda Kelapa",
+  "jumlah": 3612,
+  "foto": "https://progres.id/wp-content/uploads/2021/09/sunda-kelapa-harbour.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a202"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Kepulauan Seribu",
+  "jumlah": 16735,
+  "foto": "https://pulauseributraveling.com/wp-content/uploads/wisata-pulau-sepa-kepulauan-seribu.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a203"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "PBB Setu Babakan",
+  "jumlah": 32448,
+  "foto": "https://jakartapedia.co.id/wp-content/uploads/2019/06/situ-babakan-betawi.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a204"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Prasasti",
+  "jumlah": 779,
+  "foto": "https://t-2.tstatic.net/tribunjakartawiki/foto/bank/images/museum-taman-prasasti-di-jakarta-barat.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a205"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Planetarium",
+  "jumlah": 11206,
+  "foto": "https://www.hamburg-greeter.de/wp-content/uploads/2020/11/Planetarium-Hamburg-2017-1315_cJan-RasmusLippels.jpg"
+},
+{
+  "_id": {
+    "$oid": "681c926ec89848ec82f5a206"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Rumah si Pitung",
+  "jumlah": 1895,
+  "foto": "https://www.alinear.id/assets_web/images/article/ARTICLE_1319_20170406153220.jpg"
+}]
